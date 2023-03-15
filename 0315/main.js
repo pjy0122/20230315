@@ -1,1 +1,1 @@
-alert("Hello, JS!");
+alert("Very Hard Github");
